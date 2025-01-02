@@ -12,7 +12,7 @@ Hey there, I'm Ryan, or @xNifty. I'm a hobbyist programmer in my free time who w
 
 ## Currently...
 ❗Learning Go and having a blast with it  
-📅 Working through Advent of Code 2024, and then going back to do all of them  
+📅 Expanding a simple Todo app into far more than it was meant to be
 📦 Writing NPM packages that I find I need for myself
 
 ## Get in Touch
